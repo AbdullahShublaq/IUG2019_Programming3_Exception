@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
 public class Main {
 
