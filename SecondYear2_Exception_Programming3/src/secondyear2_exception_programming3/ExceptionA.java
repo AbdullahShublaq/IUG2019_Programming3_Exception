@@ -7,7 +7,7 @@ package secondyear2_exception_programming3;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
 public class ExceptionA extends Exception {
 
